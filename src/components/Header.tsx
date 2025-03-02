@@ -23,8 +23,8 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <Briefcase className="h-8 w-8 text-purple-400 mr-2" />
-            <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">DigitalPro</span>
+            {/* <Briefcase className="h-8 w-8 text-purple-400 mr-2" /> */}
+            <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">Imran Ali</span>
           </div>
 
           {/* Desktop Navigation */}

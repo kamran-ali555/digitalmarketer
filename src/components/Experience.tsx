@@ -4,9 +4,9 @@ import { Calendar, MapPin, Briefcase } from 'lucide-react';
 const experiences = [
   {
     title: 'Senior Digital Marketing Strategist',
-    company: 'Global Marketing Solutions',
-    location: 'New York, NY',
-    period: '2021 - Present',
+    company: 'Binary Hub',
+    location: 'Gilgit, Pakistan',
+    period: '2024 - Present',
     description: 'Led digital marketing strategies for Fortune 500 clients, resulting in 40% average increase in conversion rates and 65% improvement in ROI across campaigns.',
     achievements: [
       'Developed and executed comprehensive digital marketing strategies for 12+ enterprise clients',
@@ -16,9 +16,9 @@ const experiences = [
   },
   {
     title: 'Digital Marketing Manager',
-    company: 'Tech Innovations Inc.',
-    location: 'San Francisco, CA',
-    period: '2018 - 2021',
+    company: 'Northnine',
+    location: 'Gilgit, Pakistan',
+    period: '2023 - 2024',
     description: 'Oversaw all digital marketing initiatives for a fast-growing SaaS company, driving 250% growth in qualified leads and supporting 3x revenue growth over 3 years.',
     achievements: [
       'Redesigned the marketing funnel, increasing conversion rates by 75%',
@@ -28,9 +28,9 @@ const experiences = [
   },
   {
     title: 'SEO & Content Specialist',
-    company: 'Digital First Agency',
-    location: 'Chicago, IL',
-    period: '2016 - 2018',
+    company: 'Ideometrix',
+    location: 'Gilgit, Pakistan',
+    period: '2021 - 2023',
     description: 'Developed and implemented SEO and content strategies for B2B and B2C clients across various industries, achieving first-page rankings for 80% of target keywords.',
     achievements: [
       'Created and executed content calendars for 15+ clients',

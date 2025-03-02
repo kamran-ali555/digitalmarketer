@@ -9,8 +9,8 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-6 md:mb-0">
-            <Briefcase className="h-8 w-8 text-purple-400 mr-2" />
-            <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">DigitalPro</span>
+            {/* <Briefcase className="h-8 w-8 text-purple-400 mr-2" /> */}
+            <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">Imran Ali</span>
           </div>
           
           <div className="flex space-x-6 mb-6 md:mb-0">
@@ -23,13 +23,13 @@ const Footer = () => {
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
               <Instagram size={20} />
             </a>
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            {/* <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
               <Github size={20} />
-            </a>
+            </a> */}
           </div>
           
           <div className="text-gray-500 text-sm">
-            &copy; {currentYear} DigitalPro. All rights reserved.
+            &copy; {currentYear} Imran Ali. All rights reserved.
           </div>
         </div>
         

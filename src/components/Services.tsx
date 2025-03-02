@@ -31,7 +31,35 @@ const services = [
     icon: <Megaphone className="h-10 w-10 text-purple-400" />,
     title: 'Email Marketing',
     description: 'Nurture leads and boost customer retention with personalized email marketing campaigns.'
-  }
+  },
+  {
+    icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Project Initiation',
+    description: ' Defining objectives, scope, and feasibility while securing stakeholder approval to begin.'
+  },
+  {
+    icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Project Planning',
+    description: '  Developing a roadmap with tasks, timelines, resources, and risks to guide execution effectively'
+  },
+  {
+    icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Team Management',
+    description: '  Organizing, leading, and motivating team members to enhance collaboration, productivity, and efficiency'
+  },
+  {
+    icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Task Management',
+    description: '  Assigning, tracking, and optimizing tasks to ensure timely completion and project goal achievement'
+  },
+  {  icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Risk Management ',
+    description: '  Assigning, tracking, and optimizing tasks to ensure timely completion and project goal achievement'
+  },
+  {  icon: <Megaphone className="h-10 w-10 text-purple-400" />,
+    title: 'Quality Assurance ',
+    description: '  Implementing standards, monitoring processes, and testing to ensure high-quality project deliverables'
+  },
 ];
 
 const Services = () => {

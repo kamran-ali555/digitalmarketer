@@ -38,19 +38,19 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-purple-400" />,
       title: 'Email',
-      value: 'contact@digitalmarketer.com',
-      link: 'mailto:contact@digitalmarketer.com'
+      value: 'beingimroz1@gmail.com',
+      link: 'kamransadir004@gmail.com'
     },
     {
       icon: <Phone className="h-6 w-6 text-purple-400" />,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '+92 3489926054',
+      link: 'tel:+92 355789594'
     },
     {
       icon: <MapPin className="h-6 w-6 text-purple-400" />,
       title: 'Location',
-      value: 'New York, NY',
+      value: 'Gilgit, Pakistan',
       link: null
     }
   ];
@@ -116,7 +116,7 @@ const Contact = () => {
                         onChange={handleChange}
                         required
                         className="w-full px-4 py-3 bg-slate-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent text-white"
-                        placeholder="John Doe"
+                        placeholder="Your name"
                       />
                     </div>
                     <div>
@@ -131,7 +131,7 @@ const Contact = () => {
                         onChange={handleChange}
                         required
                         className="w-full px-4 py-3 bg-slate-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent text-white"
-                        placeholder="john@example.com"
+                        placeholder="yourgmail@gmail.com"
                       />
                     </div>
                   </div>

@@ -1,5 +1,7 @@
 import React, { useRef, useEffect } from 'react';
 import { CheckCircle, Zap, Clock, Award } from 'lucide-react';
+import Image2  from '../components/images/imran4.jpeg';
+
 
 const Features = () => {
   const featureRef = useRef<HTMLDivElement>(null);
@@ -70,7 +72,8 @@ const Features = () => {
             <div className="relative">
               <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg blur-lg opacity-75"></div>
               <img 
-                src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" 
+              src={Image2}
+                // src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" 
                 alt="Digital Marketing Strategy" 
                 className="rounded-lg object-cover w-full h-auto relative z-10"
               />
