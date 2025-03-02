@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className={`md:w-1/2 transition-all duration-1000 transform ${isVisible} ? 'translate-x-0 opacity-100' : '-translate-x-20 opacity-0'}`}>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              <span className="block leading-[75px]">Digital Marker</span>
+              <span className="block leading-[75px]">Digital Marketer</span>
               <span className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent">Project Manger</span>
             </h1>
             <p className="text-gray-300 text-lg md:text-xl mb-8 max-w-xl">

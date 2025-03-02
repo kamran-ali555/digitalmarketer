@@ -15,15 +15,15 @@ const experiences = [
     ]
   },
   {
-    title: 'Digital Marketing Manager',
+    title: 'Project Manger',
     company: 'Northnine',
     location: 'Gilgit, Pakistan',
     period: '2023 - 2024',
-    description: 'Oversaw all digital marketing initiatives for a fast-growing SaaS company, driving 250% growth in qualified leads and supporting 3x revenue growth over 3 years.',
+    description: 'Managed end-to-end project execution for a fast-growing SaaS company, ensuring timely delivery, budget optimization, and alignment with business goals.',
     achievements: [
-      'Redesigned the marketing funnel, increasing conversion rates by 75%',
-      'Launched and optimized campaigns across Google, Facebook, LinkedIn and Twitter',
-      'Established content marketing strategy that generated 500K+ organic monthly visits'
+      'Led cross-functional teams to successfully complete projects, improving efficiency by 30%',
+      'Streamlined workflows and implemented Agile methodologies, reducing project timelines by 25%',
+      'Coordinated with stakeholders to define project scope, risks, and deliverables, ensuring on-time and on-budget completion'
     ]
   },
   {
